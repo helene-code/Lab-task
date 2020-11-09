@@ -1,0 +1,6 @@
+#!/bin/bash
+read -p"please enter first number: "num1
+read -p"please enter second number:" num2
+echo "the total is: "$((num1+num2))
+
+
